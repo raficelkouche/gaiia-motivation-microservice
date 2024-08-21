@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/gaiia-motivation-microservice/static/css/main.e94a0107.css",
-    "main.js": "/gaiia-motivation-microservice/static/js/main.a8bb4118.js",
+    "main.js": "/gaiia-motivation-microservice/static/js/main.f57f068c.js",
     "static/js/453.6c5e0765.chunk.js": "/gaiia-motivation-microservice/static/js/453.6c5e0765.chunk.js",
     "static/media/background.png": "/gaiia-motivation-microservice/static/media/background.b718e25a12a9dfcca02e.png",
     "static/media/teamwork.jpg": "/gaiia-motivation-microservice/static/media/teamwork.14af9c75267cf5d12e76.jpg",
     "static/media/productivity.jpg": "/gaiia-motivation-microservice/static/media/productivity.d1483bd6d1eef1f3c0cb.jpg",
     "index.html": "/gaiia-motivation-microservice/index.html",
     "main.e94a0107.css.map": "/gaiia-motivation-microservice/static/css/main.e94a0107.css.map",
-    "main.a8bb4118.js.map": "/gaiia-motivation-microservice/static/js/main.a8bb4118.js.map",
+    "main.f57f068c.js.map": "/gaiia-motivation-microservice/static/js/main.f57f068c.js.map",
     "453.6c5e0765.chunk.js.map": "/gaiia-motivation-microservice/static/js/453.6c5e0765.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e94a0107.css",
-    "static/js/main.a8bb4118.js"
+    "static/js/main.f57f068c.js"
   ]
 }
