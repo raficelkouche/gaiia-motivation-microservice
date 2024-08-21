@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/gaiia-motivation-microservice/static/css/main.e94a0107.css",
-    "main.js": "/gaiia-motivation-microservice/static/js/main.f57f068c.js",
+    "main.css": "/gaiia-motivation-microservice/static/css/main.4ef6e055.css",
+    "main.js": "/gaiia-motivation-microservice/static/js/main.3348fc9e.js",
     "static/js/453.6c5e0765.chunk.js": "/gaiia-motivation-microservice/static/js/453.6c5e0765.chunk.js",
     "static/media/background.png": "/gaiia-motivation-microservice/static/media/background.b718e25a12a9dfcca02e.png",
-    "static/media/teamwork.jpg": "/gaiia-motivation-microservice/static/media/teamwork.14af9c75267cf5d12e76.jpg",
-    "static/media/productivity.jpg": "/gaiia-motivation-microservice/static/media/productivity.d1483bd6d1eef1f3c0cb.jpg",
+    "static/media/climbing.webp": "/gaiia-motivation-microservice/static/media/climbing.8ae47de0a66ffdec2017.webp",
+    "static/media/skiing.webp": "/gaiia-motivation-microservice/static/media/skiing.a98ba01935a820f2a3bd.webp",
+    "static/media/running.webp": "/gaiia-motivation-microservice/static/media/running.5021d860798a7514afb8.webp",
+    "static/media/fishing.webp": "/gaiia-motivation-microservice/static/media/fishing.04cf415678eddac3a20d.webp",
+    "static/media/golf.webp": "/gaiia-motivation-microservice/static/media/golf.d8856431f3e30f2c305e.webp",
+    "static/media/photography.webp": "/gaiia-motivation-microservice/static/media/photography.6b576ebf2de18adb17fa.webp",
+    "static/media/sketching.webp": "/gaiia-motivation-microservice/static/media/sketching.07776109bc918f584965.webp",
     "index.html": "/gaiia-motivation-microservice/index.html",
-    "main.e94a0107.css.map": "/gaiia-motivation-microservice/static/css/main.e94a0107.css.map",
-    "main.f57f068c.js.map": "/gaiia-motivation-microservice/static/js/main.f57f068c.js.map",
+    "main.4ef6e055.css.map": "/gaiia-motivation-microservice/static/css/main.4ef6e055.css.map",
+    "main.3348fc9e.js.map": "/gaiia-motivation-microservice/static/js/main.3348fc9e.js.map",
     "453.6c5e0765.chunk.js.map": "/gaiia-motivation-microservice/static/js/453.6c5e0765.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e94a0107.css",
-    "static/js/main.f57f068c.js"
+    "static/css/main.4ef6e055.css",
+    "static/js/main.3348fc9e.js"
   ]
 }
