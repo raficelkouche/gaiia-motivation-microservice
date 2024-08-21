@@ -5,7 +5,7 @@ import './MotivationListPage.css';
 
 function MotivationListPage() {
     const navigate = useNavigate();
-    const themes = ['Productivity', 'Teamwork', 'Innovation']; // Add more as needed
+    const themes = ['Climbing', 'Skiing', 'Sketching', 'Running', 'Baseball', 'Fishing', 'NSFW']; // Add more as needed
 
     return (
         <div className="list-page">

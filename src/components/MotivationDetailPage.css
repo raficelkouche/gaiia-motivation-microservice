@@ -3,11 +3,12 @@
     flex-direction: column;
     align-items: center;
     padding: 50px;
+    background-color: rgba(56, 71, 67, 0.3);
 }
 
 .theme-image {
     margin-top: 20px;
-    width: 50%;
+    width: 30%;
     border-radius: 10px;
 }
 
@@ -23,4 +24,9 @@
 
 .back-button:hover {
     background-color: #e74c3c;
+}
+
+.motivation-content {
+    max-width: 600px;
+    line-height: 24px;
 }
