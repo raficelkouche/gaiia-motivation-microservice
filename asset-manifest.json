@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/gaiia-motivation-microservice/static/css/main.8082c558.css",
+    "main.css": "/gaiia-motivation-microservice/static/css/main.2df986ef.css",
     "main.js": "/gaiia-motivation-microservice/static/js/main.6ac2a24b.js",
     "static/js/453.6c5e0765.chunk.js": "/gaiia-motivation-microservice/static/js/453.6c5e0765.chunk.js",
-    "static/media/background.png": "/gaiia-motivation-microservice/static/media/background.b718e25a12a9dfcca02e.png",
     "static/media/climbing.webp": "/gaiia-motivation-microservice/static/media/climbing.8ae47de0a66ffdec2017.webp",
     "static/media/skiing.webp": "/gaiia-motivation-microservice/static/media/skiing.a98ba01935a820f2a3bd.webp",
     "static/media/running.webp": "/gaiia-motivation-microservice/static/media/running.5021d860798a7514afb8.webp",
@@ -12,13 +11,14 @@
     "static/media/photography.webp": "/gaiia-motivation-microservice/static/media/photography.6b576ebf2de18adb17fa.webp",
     "static/media/baseball.webp": "/gaiia-motivation-microservice/static/media/baseball.30457f3287988036ec83.webp",
     "static/media/sketching.webp": "/gaiia-motivation-microservice/static/media/sketching.07776109bc918f584965.webp",
+    "static/media/background2.png": "/gaiia-motivation-microservice/static/media/background2.ea7b69bb572a62fea8ab.png",
     "index.html": "/gaiia-motivation-microservice/index.html",
-    "main.8082c558.css.map": "/gaiia-motivation-microservice/static/css/main.8082c558.css.map",
+    "main.2df986ef.css.map": "/gaiia-motivation-microservice/static/css/main.2df986ef.css.map",
     "main.6ac2a24b.js.map": "/gaiia-motivation-microservice/static/js/main.6ac2a24b.js.map",
     "453.6c5e0765.chunk.js.map": "/gaiia-motivation-microservice/static/js/453.6c5e0765.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8082c558.css",
+    "static/css/main.2df986ef.css",
     "static/js/main.6ac2a24b.js"
   ]
 }
