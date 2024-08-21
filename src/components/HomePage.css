@@ -1,0 +1,31 @@
+.home-page {
+    background-image: url('../assets/background.png');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.motivation-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #f39c12;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.motivation-button:hover {
+    background-color: #e67e22;
+}
